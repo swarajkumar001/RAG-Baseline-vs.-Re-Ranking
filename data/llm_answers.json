@@ -1,66 +1,74 @@
 {
-  "d4f72304c271fc8ffa99dc2c9cce3b63ea7dc212007182415c6e6cc237c60e5f": {
+  "7d75d9ade537eab2a5c0819ca7cdc0a42e75de0dd2692d1f8313b3e141ec0d52": {
+    "answer": "Yes, there is a right for a data subject to transmit or receive personal data concerning him or her [Recital 68]. However, this right should not be exercised against controllers processing personal data in the exercise of their public duties, specifically where processing is necessary for the performance of a task carried out in the public interest, the exercise of an official authority vested in the controller, or compliance with a legal obligation to which the controller is subject [Recital 68]. Additionally, this right does not obligate controllers to maintain or adopt processing systems that are technically compatible, and it must be without prejudice to the rights and freedoms of other data subjects [Recital 68].",
+    "latency_ms": 26787.621299999955
+  },
+  "d2343c83b7e9b5cba68177bdbd215a4a0ac60606637df9c3959bc6a91c32acf8": {
+    "answer": "Yes, you have the right to transmit your personal data to another controller without hindrance from the controller to which the data was provided, provided that:\n* The processing is carried out by automated means (Article 20(1)(b), Recital 68); and\n* The processing is based on a contract pursuant to point (b) of Article 6(1) or on consent pursuant to point (a) of Article 6(1) or point (a) of Article 9(2) (Article 20(1)(a), Recital 68).\n\nAdditionally, where technically feasible, you have the right to have the personal data transmitted directly from one controller to another (Article 20(2)). \n\nThis right does not apply where processing is based on a legal ground other than consent or contract, nor should it be exercised against controllers processing personal data in the exercise of their public duties (Recital 68).",
+    "latency_ms": 34062.56519999988
+  },
+  "3de7351d7ad57b2f4e2d1378e6788d4f285ec9954e131de7ee9519a0747c0a6d": {
     "answer": "The provided context does not answer this.",
-    "latency_ms": 8387.168600000223
+    "latency_ms": 64493.408199999976
   },
-  "784b43550b1c70508161a559f03d7ff49c3262658ce6624ddff68d41ebf672b5": {
-    "answer": "Yes. According to Article 20(2), when exercising your right to data portability, you have the right to have your personal data transmitted directly from one controller to another, where technically feasible. \n\nUnder Article 20(1), this right applies where:\n1. The processing is based on consent (pursuant to point (a) of Article 6(1) or point (a) of Article 9(2)) or on a contract (pursuant to point (b) of Article 6(1)); and \n2. The processing is carried out by automated means.\n\n*(Citation: Article 20(1) and Article 20(2))*",
-    "latency_ms": 4684.709000000112
+  "feb816839d69a052a467d1933b5ee0c44a4ab77c42cbf367ec22c069e39f2752": {
+    "answer": "If another processor fails to fulfil its data protection obligations, the initial processor remains fully liable to the controller for the performance of that other processor's obligations (Article 28).",
+    "latency_ms": 49306.99559999994
   },
-  "942b381e703265e3730e13b6c5681a6f3bff8ef6b019784521b54e1f20ceee2f": {
+  "0839ff5770c1d385c2a5c14df45e8c5832ac931e8998d0898c7babe5a28ee59f": {
+    "answer": "No, you do not always have to tell affected individuals. Communication to the data subject is not required if:\n* The controller has taken subsequent measures ensuring that the high risk to the rights and freedoms of data subjects is no longer likely to materialise (Article 34(b)); or\n* It would involve disproportionate effort, in which case a public communication or similar measure may be used instead to inform data subjects in an equally effective manner (Article 34(c)).",
+    "latency_ms": 48556.083899999976
+  },
+  "61ee934dbe464aac9d957cb57c7db1e607062f3cb17eab09ea5c919b42f63259": {
+    "answer": "No, you do not always have to tell affected individuals. Communication to the data subject is required when the personal data breach is \"likely to result in a high risk to the rights and freedoms of natural persons\" (Article 34(1), Recital 86). Furthermore, communication is not required if the controller has implemented appropriate technical and organisational protection measures that render the affected personal data unintelligible to any unauthorised person, such as encryption (Article 34(3)(a)).",
+    "latency_ms": 45297.04050000055
+  },
+  "7b711c6d2ca10e53cccd081595789f4b36011308acb65ff0f7375dd9641ae66a": {
     "answer": "The provided context does not answer this.",
-    "latency_ms": 3562.024400000155
+    "latency_ms": 60517.26390000022
   },
-  "018c98de11bf2f7a03456a9c29a57e2a1d9451cee23522be91744d90601422f2": {
-    "answer": "Based on the provided context, if a sub-processor (\"another processor\") fails to fulfill its data protection obligations, the **initial processor** remains fully liable to the controller for the performance of that sub-processor's obligations.\n\n**Citation:** Article 28(4) [Article 28 - Processor]",
-    "latency_ms": 4225.793099999919
+  "7110befae7d09db0b80b62959449572b90e2884e7b519e353085c474260af978": {
+    "answer": "No, the data protection officer shall not be dismissed or penalised by the controller or the processor for performing his tasks (Article 38).",
+    "latency_ms": 54281.48770000007
   },
-  "b94a18015e769eaf5c8698294a481f5d8943c200ae787cd30a5e8d0c70e5c8ed": {
-    "answer": "Based on the provided context, you do not always have to communicate a personal data breach to affected individuals (data subjects). \n\nAccording to **Article 34(4)**, if you have not already communicated the breach to the data subject, the supervisory authority may require you to do so after considering the likelihood of the breach resulting in a high risk, or it may decide that any of the conditions referred to in paragraph 3 are met.",
-    "latency_ms": 13424.771599999985
-  },
-  "cfe974fb864fc37941da7f0e100db5ca2949cda3b06cbb601478778cc382abd2": {
-    "answer": "No, you do not always have to inform affected individuals (data subjects) about a personal data breach. \n\nAccording to **Recital 86**, communication to the data subject is required when a personal data breach is \"likely to result in a high risk to the rights and freedoms of the natural person.\"\n\nFurthermore, according to **Article 34(3)**, communication to the data subject is **not required** if any of the following conditions are met:\n1. **(a)** The controller implemented appropriate technical and organisational protection measures (such as encryption) that render the personal data unintelligible to any unauthorized person.\n2. **(b)** The controller took subsequent measures ensuring that the high risk to the rights and freedoms of data subjects is no longer likely to materialize.\n3. **(c)** It would involve disproportionate effort (in which case a public communication or similar measure must be used instead to inform them in an equally effective manner).\n\n**Citations:** Article 34(3), Recital 86",
-    "latency_ms": 6859.814700000243
-  },
-  "fea4f4123678196affe9eae22b4401cc35935d5c821d2bb25c63deef54b8edb8": {
+  "3698f0f3364ca9b8980a21c48a1bf42d138bbb6d41b38e2ee98c37d6484437bb": {
     "answer": "The provided context does not answer this.",
-    "latency_ms": 4261.547099999916
+    "latency_ms": 175496.3762999996
   },
-  "cbae97952bff6cd8b752e2c2467031fb58bb146227ea809a4d243a3e603d953b": {
-    "answer": "A personal data breach does not need to be reported to the supervisory authority if the breach is unlikely to result in a risk to the rights and freedoms of natural persons (Article 33(1)), provided the controller is able to demonstrate this in accordance with the accountability principle (Recital 85).",
-    "latency_ms": 4775.500000000193
+  "6994f472d1daa809397ff7227c1e9ec276bb2be2bf18a3161d465fe37808456d": {
+    "answer": "No, the GDPR does not apply to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences (Article 2(2)(d), Recital 19).",
+    "latency_ms": 40373.79770000007
   },
-  "d292d7497ed07565cf84577ac36a79e1b8e324787a32e34549fc192434578150": {
+  "6be8f767afc9ea5d8b723499a6ad667ae7097c943464e10dcad657c24d594695": {
     "answer": "The provided context does not answer this.",
-    "latency_ms": 3525.595500000236
+    "latency_ms": 79188.94260000071
   },
-  "e80e8112cc88ceea40ce9632f131eac00797ffad82107a849600dba99371a24d": {
-    "answer": "Based on the provided context, no. A data protection officer shall not be dismissed or penalised by the controller or the processor for performing his or her tasks.\n\n**Citation:** Article 38(3)",
-    "latency_ms": 22116.24410000013
+  "f42a37364c07ccff6329357c35f141da3e6916851636d828efb6b969c6a2c449": {
+    "answer": "Yes, the processor shall notify the controller without undue delay after becoming aware of a personal data breach (Article 33).",
+    "latency_ms": 38713.05389999998
   },
-  "0d65e358ff906d9f2cb988707bfd5e2409f80342176c95e50e035b7d0da40e2f": {
+  "d78378c1fb25797b4a29aebe256c83749ba8c52adfe403d4d08b6aeba5fa1429": {
     "answer": "The provided context does not answer this.",
-    "latency_ms": 3028.613999999834
+    "latency_ms": 43315.95370000014
   },
-  "eee8a6207b3472c4a5200924754053ce39b9df64e599cf3b56a34147d66601c4": {
-    "answer": "No. According to Article 2(2)(d) and Recital 19, the GDPR does not apply to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection, or prosecution of criminal offences.",
-    "latency_ms": 5919.1509999996015
+  "e7aef809d1106d91590f9555f8bea24137b200ce081723640e1cee4f97168871": {
+    "answer": "Yes, the members and staff of each supervisory authority are subject to a duty of professional secrecy, both during and after their term of office, regarding any confidential information they learn while performing their tasks or exercising their powers (Article 54).",
+    "latency_ms": 85913.41809999995
   },
-  "3cfe586899e454e962f4bbf727818d4be24b6d2bba3b18771227aebeed664a41": {
+  "b5782b3769b31ce84d07c3d4f3d656eaca4cf1dfbe7dfa13e5e0ff8ce89a7645": {
     "answer": "The provided context does not answer this.",
-    "latency_ms": 3813.7493999997787
+    "latency_ms": 43106.68650000025
   },
-  "5979e2f76cafed2407540c3b8dccb267d81ba06ffa8727e097d540f46319735e": {
-    "answer": "According to Recital 141, if the supervisory authority (regulator) does not act on your complaint, you have the right to an effective judicial remedy in accordance with Article 47 of the Charter. \n\n*(Source: Recital 141)*",
-    "latency_ms": 3978.3056999999644
-  },
-  "ea9860ab722d15744fe97265c4e522fb23a3be8626d80d7303883602358af6b0": {
-    "answer": "Based on the provided context, you can \"have the personal data transmitted directly from one controller to another\" [Recital 68].",
-    "latency_ms": 6884.32610000018
-  },
-  "2c5fa26b1b480385058a0188e35d4b94bdd32027143d53120755439d03eaf1f5": {
+  "9919e4d3a5ea597201cf89d71458b220c2b68b3600d6a1e5f028de4888b38e41": {
     "answer": "The provided context does not answer this.",
-    "latency_ms": 4635.621100000208
+    "latency_ms": 25002.51290000051
+  },
+  "135104b853c5ca3b6935b4717a148564ab46d90ba4248f6ee0208c7fca2d20b2": {
+    "answer": "The provided context does not answer this.",
+    "latency_ms": 27427.697400000397
+  },
+  "64e87a3ddf201f608599ed1e99755864ff93f8ace54259f78ef2d68f4737b78f": {
+    "answer": "The provided context does not answer this.",
+    "latency_ms": 32581.78720000069
   }
 }
