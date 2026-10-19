@@ -1,0 +1,9 @@
+torch==2.14.1
+sentence-transformers==6.1.0
+transformers==5.20.1
+pymupdf==1.28.2
+numpy==2.5.4
+pandas==3.0.6
+google-genai==2.31.0
+notebook==7.6.3
+ipywidgets==8.1.9
